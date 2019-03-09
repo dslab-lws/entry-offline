@@ -29,6 +29,7 @@
         "@serialport/stream": "^2.0.4",
         "archiver": "^3.0.0",
         "bignumber.js": "^8.0.1",
+        "bower": "^1.8.8",
         "debug": "^4.1.1",
         "decompress": "^4.2.0",
         "entry-tool": "^1.0.7",
